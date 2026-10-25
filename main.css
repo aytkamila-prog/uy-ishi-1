@@ -1,0 +1,19 @@
+table,
+th,
+td {
+    border: 1px solid ;
+    
+}
+
+
+.blu{
+    background-color: cornflowerblue;
+}
+
+.yelo{
+    background-color: hwb(55 53% 0%);
+}
+
+.gren{
+    background-color: rgb(149, 252, 218);
+}
